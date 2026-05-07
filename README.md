@@ -5,6 +5,8 @@ I design and build whatever I can imagine.
 
 If an idea pops into my head, I'll probably be able to do it
 
-<div style="display: inline_block"><br>
-  📖
-  ![Tecnologias](https://skillicons.dev/icons?i=react,js,php,html,css,bootstrap,cs,java)
+
+## Technologies that I know I use
+<br>
+
+![Tecnologias](https://skillicons.dev/icons?i=ps,js,php,html,css,bootstrap,cs,)
