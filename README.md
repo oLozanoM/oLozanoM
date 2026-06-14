@@ -1,5 +1,5 @@
 ## Hey there!👋
-I'm Lucas,I'm a systems development student and I love digital design..
+I'm Lucas,I'm a systems development student and I like too much digital design..
 
 I design and build whatever I can imagine.
 
