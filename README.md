@@ -7,4 +7,4 @@ I design and build functional projects. Whether it's thinking about the user exp
 ### Technologies & Tools
 <br>
 
-![Tecnologias](https://skillicons.dev/icons?i=ps,js,php,html,css,bootstrap,cs,)
+![Tecnologias](https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,php,ps,)
